@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=1000">
+<meta name="viewport" content="width=950">
 
 <title>Muzamil Meer | Developer Portfolio</title>
 
@@ -42,7 +42,7 @@ z-index:-1;
 /* container */
 
 .container{
-max-width:300px;
+max-width:950px;
 width:500%;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
