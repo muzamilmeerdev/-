@@ -42,7 +42,7 @@ z-index:-1;
 /* container */
 
 .container{
-max-width:900px;
+max-width:300px;
 width:300%;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
