@@ -43,7 +43,7 @@ z-index:-1;
 
 .container{
 max-width:1000px;
-width:100%;
+width:200%;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
 border-radius:25px;
