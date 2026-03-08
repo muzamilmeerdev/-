@@ -42,8 +42,8 @@ z-index:-1;
 /* container */
 
 .container{
-max-width:950px;
-width:500%;
+max-width:1200px;
+width:%;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
 border-radius:25px;
