@@ -43,11 +43,11 @@ z-index:-1;
 
 .container{
 max-width:1200px;
-width:%;
+width:600%;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
 border-radius:25px;
-padding:60px;
+padding:100px;
 box-shadow:0 0 25px rgba(88,166,255,0.4);
 }
 
