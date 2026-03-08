@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=.0">
+<meta name="viewport" content="width=1000">
 
 <title>Muzamil Meer | Developer Portfolio</title>
 
@@ -22,8 +22,10 @@ background:#0d1117;
 color:white;
 font-family:'Orbitron',sans-serif;
 text-align:center;
-padding:20px;
+padding:40px;
 font-size:18px;
+display:flex;
+justify-content:center;
 }
 
 /* particles */
@@ -37,11 +39,11 @@ left:0;
 z-index:-1;
 }
 
-/* container FULL WIDTH */
+/* container */
 
 .container{
+max-width:1200px;
 width:100%;
-margin:auto;
 background:rgba(255,255,255,0.05);
 backdrop-filter:blur(12px);
 border-radius:25px;
@@ -109,7 +111,7 @@ margin:40px 0;
 border:1px solid rgba(255,255,255,0.1);
 }
 
-/* responsive github stats */
+/* github stats */
 
 .stats img{
 width:100%;
